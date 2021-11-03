@@ -1,3 +1,7 @@
+
+# Description
+Easy send is a crypto wallet that enables you to easily send crypto currencies to different addresses. You can also view your transfer history.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
