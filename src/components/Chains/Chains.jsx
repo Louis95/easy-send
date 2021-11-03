@@ -16,7 +16,7 @@ function Chains(props) {
 
   useEffect(() => {
     if (isAuthenticated && !isWeb3Enabled && !isWeb3EnableLoading) enableWeb3();
-  }, [isAuthenticated, isWeb3Enabled]);
+  });
 
   useEffect(() => setChainId(chain), [chain]);
 
