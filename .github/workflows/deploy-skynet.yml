@@ -16,6 +16,10 @@ jobs:
 
       - run: yarn
       - run: yarn build
+          env:
+            REACT_APP_MORALIS_ID: ${{ secrets.REACT_APP_MORALIS_ID }}
+            REACT_APP_SERVER_URL: ${{ secrets.REACT_APP_SERVER_URL }}
+
 
       - name: "Deploy to Skynet"
         uses: SkynetLabs/deploy-to-skynet-action@v2

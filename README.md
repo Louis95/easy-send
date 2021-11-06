@@ -2,7 +2,11 @@
 
 
 # Description
-Easy send is a crypto wallet that enables you to easily send crypto currencies to different addresses. You can also view your transfer history.
+Easy send is a crypto wallet that enables you to easily send crypto currencies to different addresses (ENS integration coming up soon). You can also view your transfer history.
+
+# Still in progress
+ - Top up mobile money accounts with crypto. (MTN mobile money and Orange)
+ - Create  and fund cards (Visa and master) using crypto.
 
 # Demo
 You can check the demo [Here](https://0002q1mu706t4f3i9d8sjkndvqdl5eqvl93suf0sh8sv5nfip35v8j0.siasky.net/)
